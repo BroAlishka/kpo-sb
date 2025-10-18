@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="zoo.AnimalLogicTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-10-18T18:14:29.937Z" hostname="DESKTOP-ARNR9EN" time="0.072">
+  <properties/>
+  <testcase name="testTigerNeverInContactZoo()" classname="zoo.AnimalLogicTest" time="0.038"/>
+  <testcase name="testAnimalFoodAmount()" classname="zoo.AnimalLogicTest" time="0.005"/>
+  <testcase name="testRabbitContactZoo()" classname="zoo.AnimalLogicTest" time="0.003"/>
+  <testcase name="testThingInventory()" classname="zoo.AnimalLogicTest" time="0.006"/>
+  <testcase name="testWolfNeverInContactZoo()" classname="zoo.AnimalLogicTest" time="0.003"/>
+  <testcase name="testMonkeyContactZoo()" classname="zoo.AnimalLogicTest" time="0.002"/>
+  <testcase name="testInterfacesImplementation()" classname="zoo.AnimalLogicTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
