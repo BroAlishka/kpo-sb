@@ -1,10 +1,12 @@
 package zoo.services;
 
+import org.springframework.stereotype.Component;
 import zoo.entities.things.Thing;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@Component
 public class ThingService {
     private final List<Thing> things;
     private int nextInventoryNumber = 1001;

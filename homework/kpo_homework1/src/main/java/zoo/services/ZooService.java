@@ -1,11 +1,13 @@
 package zoo.services;
 
+import org.springframework.stereotype.Component;
 import zoo.entities.animals.Animal;
 import zoo.entities.animals.Herbo;
 import zoo.entities.things.Thing;
 
 import java.util.List;
 
+@Component
 public class ZooService {
     private final AnimalService animalService;
     private final ThingService thingService;

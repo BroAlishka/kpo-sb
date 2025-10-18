@@ -23,3 +23,9 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
+
+tasks.bootRun {
+    systemProperty("file.encoding", "UTF-8")
+    systemProperty("console.encoding", "UTF-8")
+    standardInput = System.`in`
+}
